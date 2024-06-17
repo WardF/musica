@@ -8,9 +8,9 @@
  */
 #include <musica/micm.hpp>
 
-#include <micm/version.hpp>
 #include <micm/solver/rosenbrock_solver_parameters.hpp>
 #include <micm/system/species.hpp>
+#include <micm/version.hpp>
 
 #include <cmath>
 #include <filesystem>
